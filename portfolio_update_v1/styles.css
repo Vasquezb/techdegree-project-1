@@ -211,4 +211,16 @@ a.social:hover {
 h2 {
   color: #8E4585;
 }
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+h1 {
+  color: #8E4585;
+}
+
+.main-image {
+  border: solid 3px purple;
+  border-radius: 24%;
+}
 }
